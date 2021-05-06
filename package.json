@@ -1,0 +1,27 @@
+{
+  "name": "vue-question-answer",
+  "version": "1.0.0",
+  "description": "Summary of some questions and answers about vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengdonglp/vue-question-answer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengdonglp/vue-question-answer/issues"
+  },
+  "homepage": "https://github.com/fengdonglp/vue-question-answer#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
